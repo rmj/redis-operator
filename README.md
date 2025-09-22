@@ -1,3 +1,5 @@
+# THIS IS A TEST
+
 <p align="center">
   <img src="./static/redis-operator-logo.svg" height="330" width="330">
 </p>
